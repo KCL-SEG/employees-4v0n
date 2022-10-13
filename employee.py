@@ -1,9 +1,6 @@
 """Employee pay calculator."""
 """ENTER YOUR SOLUTION HERE!"""
 
-import string
-
-
 class Contract:
     def __init__(self, wage: int):
         self.type = type
